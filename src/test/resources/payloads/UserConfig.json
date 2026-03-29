@@ -1,0 +1,23 @@
+{
+  "createUser": {
+    "status": "success",
+    "message": "User created successfully",
+    "data": {
+      "id": 101,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "role": "Developer",
+      "createdAt": "2024-03-20T12:00:00Z"
+    }
+  },
+  "updateUser": {
+    "status": "success",
+    "message": "User updated successfully",
+    "data": {
+      "id": 102,
+      "name": "Alex Wilson Updated",
+      "email": "alex.updated@example.com",
+      "role": "Senior Developer"
+    }
+  }
+}

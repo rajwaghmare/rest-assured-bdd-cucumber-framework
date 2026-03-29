@@ -1,0 +1,7 @@
+{
+  "baseURI": "https://api.snap-test.in/",
+  "addUserEndpoint": "/api/user/addUser/",
+    "updateUserEndpoint": "/api/user/update/102/",
+  "getUserEndpoint": "api/user/getAllUsers"
+
+}
