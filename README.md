@@ -276,7 +276,7 @@ cucumber.plugin=pretty, json:target/cucumber-reports/cucumber.json
 ### GitHub Actions
 
 ```yaml
-# .github/workflows/test.yml
+# .github/workflows/rest_assured.yml
 name: API Automation Tests
 
 on:
