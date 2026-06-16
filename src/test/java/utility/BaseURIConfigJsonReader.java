@@ -42,6 +42,12 @@ public class BaseURIConfigJsonReader {
         return (String) jsonObject.get("getUserEndpoint");
 
     }
+
+    public static String getDeleteUserEndpoint() {
+
+        return (String) jsonObject.get("deleteUserEndpoint");
+
+    }
 }
 
 
